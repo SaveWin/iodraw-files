@@ -514,8 +514,8 @@
             <mxPoint x="700" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkJ7k8Z0plu7C2L4NoLt-105" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="398" width="30" height="30" as="geometry" />
+        <mxCell id="hkJ7k8Z0plu7C2L4NoLt-105" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;T&lt;sub style=&quot;&quot;&gt;D&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="393" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
