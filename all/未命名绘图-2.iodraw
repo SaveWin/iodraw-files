@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hkJ7k8Z0plu7C2L4NoLt-101" value="τ" style="group;fillColor=#66FF66;fontSize=18;fontFamily=Times New Roman;opacity=30;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="610" y="360" width="20" height="40" as="geometry" />
+          <mxGeometry x="600" y="360" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkJ7k8Z0plu7C2L4NoLt-102" value="" style="endArrow=none;html=1;rounded=0;" parent="hkJ7k8Z0plu7C2L4NoLt-101" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
