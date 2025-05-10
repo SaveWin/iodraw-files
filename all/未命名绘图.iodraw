@@ -70,7 +70,7 @@
             <mxPoint x="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkJ7k8Z0plu7C2L4NoLt-21" value=" τ" style="group;fillColor=#FFFF66;verticalAlign=middle;fontColor=default;fontFamily=Times New Roman;fontSize=18;" vertex="1" connectable="0" parent="1">
+        <mxCell id="hkJ7k8Z0plu7C2L4NoLt-21" value="τ" style="group;fillColor=#FFFF66;verticalAlign=middle;fontColor=default;fontFamily=Times New Roman;fontSize=18;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" y="200" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hkJ7k8Z0plu7C2L4NoLt-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="hkJ7k8Z0plu7C2L4NoLt-21">
