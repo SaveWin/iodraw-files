@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ErmIaiW8Y5jct0i0GJ3M-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="200" as="geometry" />
+          <mxGeometry x="400" y="200" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hkJ7k8Z0plu7C2L4NoLt-20" value="τ" style="group;labelBackgroundColor=none;textShadow=0;fillColor=#99FFFF;fontSize=18;fontFamily=Times New Roman;opacity=30;" parent="ErmIaiW8Y5jct0i0GJ3M-4" vertex="1" connectable="0">
           <mxGeometry width="20" height="40" as="geometry" />
