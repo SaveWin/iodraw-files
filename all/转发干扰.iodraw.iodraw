@@ -19,7 +19,7 @@
         <mxCell id="8E0jgjN5lykXRk03QmXc-7" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="145" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8E0jgjN5lykXRk03QmXc-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;sup style=&quot;&quot;&gt;exp(j2&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); text-align: left; background-color: rgb(240, 243, 255);&quot;&gt;πfdt)&lt;/span&gt;&lt;/sup&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8E0jgjN5lykXRk03QmXc-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;exp&lt;sup&gt;(j2&lt;span style=&quot;color: rgba(0, 0, 0, 0.8); text-align: left; background-color: rgb(240, 243, 255);&quot;&gt;πfdt)&lt;/span&gt;&lt;/sup&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="60" width="112.5" height="40" as="geometry" />
         </mxCell>
       </root>
