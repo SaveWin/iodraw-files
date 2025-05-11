@@ -16,8 +16,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8E0jgjN5lykXRk03QmXc-7" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="40" height="37" as="geometry" />
+        <mxCell id="8E0jgjN5lykXRk03QmXc-7" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
