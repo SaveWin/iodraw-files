@@ -103,6 +103,9 @@
         <mxCell id="mIQX9202pgrxvrOSdOvJ-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="333" y="551" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mIQX9202pgrxvrOSdOvJ-24" value="LFM信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="348" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
